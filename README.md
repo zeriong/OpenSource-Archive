@@ -22,6 +22,7 @@ Update README with recent pull request summaries- orval-labs/orval [#3222](https
 - orval-labs/orval [#3247](https://github.com/orval-labs/orval/pull/3247) ✅ Zod date-time 포맷에 `{ offset: true }` 기본값 적용으로 RFC3339 호환 수정
 - orval-labs/orval [#3248](https://github.com/orval-labs/orval/pull/3248) ✅ binary 스키마의 contentMediaType 업그레이드 시 ArrayBuffer mock 생성 수정
 - orval-labs/orval [#3249](https://github.com/orval-labs/orval/pull/3249) ✅ Angular httpResource 출력을 tags/tags-split 모드에서 tag별 스코핑 수정
+- orval-labs/orval [#3239](https://github.com/orval-labs/orval/pull/3239) ✅ OpenAPI validation 실패를 error 대신 warning으로 처리 (fastapi.sse 등 지원)
 
 ## VSCode Extensions
 
